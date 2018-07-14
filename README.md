@@ -1,2 +1,2 @@
 # dashboard
-React app exercise
+React app exercise to improve my skills
